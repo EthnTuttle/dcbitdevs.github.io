@@ -15,3 +15,5 @@ Unknown "Carbon Negative Power Source" Miner
   - <https://compassmining.io/education/unknown-miner-carbon-negative-messages-bitcoin/>
 FedNow
   - <https://www.reuters.com/business/finance/fed-set-launch-long-awaited-instant-payments-service-modernizing-system-2023-07-20/>
+HRF 20 BTC Bounty
+ - <https://www.nobsbitcoin.com/hrf-20-btc-bounty-challenge/>
